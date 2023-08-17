@@ -1,4 +1,4 @@
-/**
+**
 利用随机概率实现多账户运行
 
 填写格式如下：
@@ -6,9 +6,9 @@
 
 const MMSLS = [
     
-    "https://www.maimemo.com/share/page?uid=28695949&pid=f87138aab618418074580d366d182307&tid=d2d511fdeaef4a7e586b34b15fe8da79",
-    "https://www.maimemo.com/share/page?uid=28695949&pid=f87138aab618418074580d366d182307&tid=d2d511fdeaef4a7e586b34b15fe8da79",
-    "https://www.maimemo.com/share/page?uid=28695949&pid=f87138aab618418074580d366d182307&tid=d2d511fdeaef4a7e586b34b15fe8da79",
+    "https://www.maimemo.com/share/page?uid=28695949&pid=d31781bb791dc6af50f9890f83e28150&tid=6a99a4e7d64cd885bd02fdf9e2512e3d",
+    "https://www.maimemo.com/share/page?uid=28695949&pid=d31781bb791dc6af50f9890f83e28150&tid=6a99a4e7d64cd885bd02fdf9e2512e3d",
+    "https://www.maimemo.com/share/page?uid=28695949&pid=d31781bb791dc6af50f9890f83e28150&tid=6a99a4e7d64cd885bd02fdf9e2512e3d",
   ]
 =====================以上为范例！=====================
 
